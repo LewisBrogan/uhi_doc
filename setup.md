@@ -9,6 +9,7 @@
     - [Step 2: Install Oh My Zsh](#step-2-install-oh-my-zsh)
     - [Step 3: Install Powerlevel10k Theme](#step-3-install-powerlevel10k-theme)
     - [Step 4: Additional Goodies](#step-4-additional-goodies)
+3. [Terminal](#why-use-the-terminal-from-the-start-highly-recommended)
 
 ---
 
@@ -226,5 +227,27 @@ git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ${ZSH_CUSTOM:-$
     ```bash
     git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting
     ```
+
+---
+
+### Why Use the Terminal from the Start? (Highly Recommended)
+
+If you're new to software development, you might be tempted to stick with graphical user interfaces (GUIs) for tasks like file management, software installation, and code compilation. While GUIs are user-friendly and visually appealing, they often abstract away what's happening behind the scenes. Here's why I personally recommend starting with the terminal:
+
+1. **Full Control**: The terminal provides you with more control over your system and software. You can execute complex tasks with a single command, something that might require multiple clicks in a GUI.
+
+2. **Scripting and Automation**: Once you're comfortable with terminal commands, you can write scripts to automate repetitive tasks, thereby increasing your efficiency.
+
+3. **Industry Standard**: In many tech companies, especially those that deal with backend development, DevOps, and system administration, terminal skills are a must. Learning it early will give you a head start.
+
+4. **Resource Efficiency**: Terminal applications often use fewer system resources than their GUI counterparts, which can be crucial when working on older hardware or within virtual machines.
+
+5. **Cross-Platform**: Many terminal commands work the same way across different operating systems. Learn once, apply everywhere.
+
+6. **Better Understanding**: Using the terminal can give you a better understanding of how software and operating systems work. It's like looking under the hood of a car instead of just driving it.
+
+7. **Community and Support**: There's a large community of developers who use the terminal and contribute to its ecosystem. You'll find a wealth of tutorials, forums, and free tools to help you along the way.
+
+NOTE: You can use the terminal within your IDE
 
 ---
